@@ -14,5 +14,5 @@ function sovle(input) {
             console.log(`${(sum - budget).toFixed(2)}$ more needed.`);
         }
 }
-sovle([ '50', '2', '1.0', '0.10', '10.0' ]
+sovle([ '50', '2', '1.0', '0.10', '10.00' ]
 )
